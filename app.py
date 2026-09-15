@@ -82,18 +82,3 @@ if st.button("Click to Predict: "):
 
 # changes 1: dict
 # changes 2: model predict
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
