@@ -1,7 +1,7 @@
 # Step 1: Load Important Modules
 import pandas as pd
 import numpy as np
-
+import seaborn as sns
 import matplotlib.pyplot as plt
 import os
 from sklearn.linear_model import LogisticRegression
